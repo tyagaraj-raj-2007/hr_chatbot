@@ -295,7 +295,7 @@ python test.py
 
 
 GitHub Repository
-The source code is available at: https://github.com/your-username/hr_chatbot
+The source code is available at: https://github.com/tyagaraj-raj-2007/hr_chatbot.git 
 Demo
 
 Local Demo: Run the setup instructions and access at http://localhost:8501.
