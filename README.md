@@ -180,12 +180,12 @@ Can be compiled with pdflatex to produce a professional document.
 Setup Instructions
 To run the project on Windows with Python 3.12.4:
 
-Clone the repository:git clone https://github.com/your-username/hr_chatbot.git
+Clone the repository:git clone https://github.com/tyagaraj-raj-2007/hr_chatbot.git
 cd hr_chatbot
 
 
 Create and activate a virtual environment:python -m venv venv
-.\venv\Scripts\Activate.ps1
+.\venv\Scripts\activate
 
 
 Install dependencies:pip install -r requirements.txt
@@ -194,7 +194,7 @@ Install dependencies:pip install -r requirements.txt
 Run the FastAPI backend:uvicorn app.main:app --host 0.0.0.0 --port 8000
 
 
-Run the Streamlit frontend (in a new terminal):.\venv\Scripts\Activate.ps1
+Run the Streamlit frontend (in a new terminal):.\venv\Scripts\activate
 streamlit run frontend/streamlit_app.py
 
 
