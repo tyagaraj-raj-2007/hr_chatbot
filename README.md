@@ -10,7 +10,7 @@ Access a FastAPI backend with REST endpoints (/chat and /employees/search).
 Interact via a simple Streamlit chat interface.
 Use a sample dataset of 15 employees stored in employees.json.
 
-The project is located at ..\Desktop\hr_chatbot and is hosted on GitHub at https://github.com/your-username/hr_chatbot (replace your-username with your GitHub username).
+The project is located at ..\Desktop\hr_chatbot
 Project Structure
 The project directory (hr_chatbot) contains:
 
